@@ -1,3 +1,5 @@
+<p align="center"><img src="design-assets/logo.png" width="240" alt="The builder at a fork in the trail, scratching his head under a blue question mark"></p>
+
 # Nobody Remembers
 
 Walk out, forget the way, get walked back. An offline Android app for hiking and bird watching.

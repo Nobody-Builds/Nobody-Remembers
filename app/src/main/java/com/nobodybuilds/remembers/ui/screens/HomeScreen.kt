@@ -224,9 +224,9 @@ private fun Hero(onStart: () -> Unit) {
     Panel(color = MaterialTheme.colorScheme.secondaryContainer) {
         Column(Modifier.padding(20.dp)) {
             Image(
-                painterResource(R.drawable.ic_logo),
+                painterResource(R.drawable.logo),
                 contentDescription = "The builder at a fork in the trail, scratching his head",
-                modifier = Modifier.size(132.dp).align(Alignment.CenterHorizontally),
+                modifier = Modifier.size(180.dp).align(Alignment.CenterHorizontally),
             )
             Text("Leave a trail.", style = AccentStyle, color = MaterialTheme.colorScheme.onSecondaryContainer)
             Spacer(Modifier.height(8.dp))
